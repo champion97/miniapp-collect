@@ -1,4 +1,4 @@
-# miniapp-collec
+# miniapp-collect
 
 ### example
 
